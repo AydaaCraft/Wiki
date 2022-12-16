@@ -10,7 +10,7 @@ AydaaCraft is designed to restart every 24 hours, This is to ensure that the ser
 
 ## Server chat
 
-The server chat is constantly in sync with our [Discord](socials.md) Server, you can chat on the go with your friends or see achievements and deaths without logging in to the server.
+The server chat is constantly in sync with our [Discord](../welcome/socials.md) Server, you can chat on the go with your friends or see achievements and deaths without logging in to the server.
 
 ## Shulkerboxes
 
