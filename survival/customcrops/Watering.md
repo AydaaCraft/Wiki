@@ -1,11 +1,12 @@
 
 Sprinkler & WateringCan
 
-Sprinkler is a semi-automatic way of watering pot. You can add water to sprinkler with water bucket or watering can. Max storage and range can be customized.
-Watering-can also has its max storage and effective range. 1x1 1x3 3x3 and even 9x99 is supported!
+Sprinklers are an semi-automatic way of watering a gardenbed. 
+You can add water to a sprinkler with a water bucket or purchase a watering can. 
+
+a Watering-can also has its max storage and effective range. currently set to 1x3 or 3x3 for a golden watering can.
 
 
 
-
-Interact the sprinkler with water bucket or watering can to fill.
-When interacting the sprinkler, a hologram would be displayed.
+Interact with the sprinkler with a water bucket or watering can will fill it up.
+When right clicking the sprinkler, a hologram would be displayed showing level.
