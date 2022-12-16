@@ -9,24 +9,24 @@
 * [Ranks](welcome/ranks.md)
 * [Socials](welcome/socials.md)
 
-## Survival
+## Survival Server
 
-* [Need-to-knows](survival/need-to-knows.md)
-* [Commands](survival/commands.md)
-* [Survival Worlds](survival/survival-worlds.md)
-* [Dungeon stuff](survival/dungeon-stuff/README.md)
-  * [Adventurers Guild/Hub](survival/dungeon-stuff/adventurers-guild-hub.md)
-  * [Need-to-knows](survival/dungeon-stuff/need-to-knows.md)
-  * [Commands](survival/dungeon-stuff/commands.md)
-  * [Levelling Up](survival/dungeon-stuff/levelling-up.md)
-  * [Foreign Coins](survival/dungeon-stuff/foreign-coins.md)
-  * [Mobs](survival/dungeon-stuff/mobs.md)
-  * [Dungeons](survival/dungeon-stuff/dungeons.md)
+* [Need-to-knows](survival-server/need-to-knows.md)
+* [Commands](survival-server/commands.md)
+* [Survival Worlds](survival-server/survival-worlds.md)
+* [Dungeon stuff](survival-server/dungeon-stuff/README.md)
+  * [Adventurers Guild/Hub](survival-server/dungeon-stuff/adventurers-guild-hub.md)
+  * [Need-to-knows](survival-server/dungeon-stuff/need-to-knows.md)
+  * [Commands](survival-server/dungeon-stuff/commands.md)
+  * [Levelling Up](survival-server/dungeon-stuff/levelling-up.md)
+  * [Foreign Coins](survival-server/dungeon-stuff/foreign-coins.md)
+  * [Mobs](survival-server/dungeon-stuff/mobs.md)
+  * [Dungeons](survival-server/dungeon-stuff/dungeons.md)
 
-## Creative
+## Creative Server
 
-* [Need-to-knows](creative/need-to-knows.md)
-* [Commands](creative/commands.md)
+* [Need-to-knows](creative-server/need-to-knows.md)
+* [Commands](creative-server/commands.md)
 
 ## Skyblock
 
@@ -35,6 +35,4 @@
 
 ## Other <a href="#other-1" id="other-1"></a>
 
-* [Server Events](other-1/server-events/README.md)
-  * [MarchMadness](other-1/server-events/marchmadness.md)
 * [Other Commands](other-1/other-commands.md)
