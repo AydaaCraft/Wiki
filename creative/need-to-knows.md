@@ -6,6 +6,6 @@ description: Everything you need to know about Creative mode on AydaaCraft
 
 ## Creative
 
-Coming soon
+Info coming soon
 
 ## Features

@@ -14,6 +14,14 @@
 * [Need-to-knows](survival/need-to-knows.md)
 * [Commands](survival/commands.md)
 * [Survival Worlds](survival/survival-worlds.md)
+* [Dungeon stuff](survival/dungeon-stuff/README.md)
+  * [Adventurers Guild/Hub](survival/dungeon-stuff/adventurers-guild-hub.md)
+  * [Need-to-knows](survival/dungeon-stuff/need-to-knows.md)
+  * [Commands](survival/dungeon-stuff/commands.md)
+  * [Levelling Up](survival/dungeon-stuff/levelling-up.md)
+  * [Foreign Coins](survival/dungeon-stuff/foreign-coins.md)
+  * [Mobs](survival/dungeon-stuff/mobs.md)
+  * [Dungeons](survival/dungeon-stuff/dungeons.md)
 
 ## Creative
 
@@ -24,16 +32,6 @@
 
 * [Need-to-knows](skyblock/need-to-knows.md)
 * [Commands](skyblock/commands.md)
-
-## Mobs and Dungeons
-
-* [Need-to-knows](mobs-and-dungeons/need-to-knows.md)
-* [Commands](mobs-and-dungeons/commands.md)
-* [Foreign Coins](mobs-and-dungeons/foreign-coins.md)
-* [Adventurers Guild/Hub](mobs-and-dungeons/adventurers-guild-hub.md)
-* [Levelling Up](mobs-and-dungeons/levelling-up.md)
-* [Mobs](mobs-and-dungeons/mobs.md)
-* [Dungeons](mobs-and-dungeons/dungeons.md)
 
 ## Other <a href="#other-1" id="other-1"></a>
 
